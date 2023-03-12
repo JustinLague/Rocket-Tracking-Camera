@@ -1,0 +1,7 @@
+[submodule "Rocket-Tracking-Camera-Commands"]
+	path = Rocket-Tracking-Camera-Commands
+	url = https://github.com/JustinLague/Rocket-Tracking-Camera-Commands.git
+
+[submodule "Rocket-Tracking-Camera-Train"]
+	path = Rocket-Tracking-Camera-Train
+	url = https://github.com/JustinLague/Rocket-Tracking-Camera-Train.git
